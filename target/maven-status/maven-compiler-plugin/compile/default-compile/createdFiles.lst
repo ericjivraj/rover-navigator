@@ -1,0 +1,9 @@
+model\Rover.class
+controller\RoverController.class
+factory\IPlateauFactory.class
+service\RoverNavigatorImpl.class
+RoverNavigatorApplication.class
+service\IRoverNavigator.class
+factory\BoundedPlateauFactory.class
+factory\UnboundedPlateauFactory.class
+model\Plateau.class

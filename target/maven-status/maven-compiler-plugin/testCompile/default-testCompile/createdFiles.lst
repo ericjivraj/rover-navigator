@@ -1,0 +1,5 @@
+service\IRoverNavigatorTest.class
+model\PlateauTest.class
+factory\IPlateauFactoryTest.class
+model\RoverTest.class
+controller\RoverControllerTest.class
